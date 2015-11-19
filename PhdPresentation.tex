@@ -92,6 +92,27 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Filtros Regularizados}
 
+\begin{eqnarray}
+  U[f(x,y)] &=&\iint_{(x,y) \in S} \Bigg\{ [f(x,y)-I(x,y)]^2 +  \nonumber \\
+     & & \eta \bigg[  \frac{\partial ^2 f(x,y)}{\partial x^2} \bigg]^2 +
+            \eta \bigg[  \frac{\partial ^2 f(x,y)}{\partial y^2} \bigg]^2 
+     \Bigg\} dx dy
+\end{eqnarray}
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Filtros Regularizados}
+
+\begin{eqnarray}
+  U[f(x,y)] &=&\iint_{(x,y) \in S} \Bigg\{ [f(x,y)-I(x,y)]^2 + 
+     \eta \bigg[  \frac{\partial ^2 f(x,y)}{\partial x^2} \bigg]^2 +
+                \nonumber \\
+      & &\eta \bigg[  \frac{\partial ^2 f(x,y)}{\partial y^2} \bigg]^2 +
+     \eta \bigg[  \frac{\partial ^2 f(x,y)}{\partial x \partial y} \bigg]^2
+     \Bigg\} dx dy
+\end{eqnarray}
+
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
