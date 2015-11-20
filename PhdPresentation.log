@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 NOV 2015 01:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 NOV 2015 23:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -974,14 +974,50 @@ Package pdftex.def Info: Images/wPhase.pdf used on input line 91.
 
 [7
 
- <./Images/wPhase.pdf>] [8
+ <./Images/wPhase.pdf>]
+<Images/RegularizadosResorte.png, id=239, 352.31625pt x 193.72375pt>
+File: Images/RegularizadosResorte.png Graphic file (type png)
 
-]
-Overfull \hbox (1.30553pt too wide) in alignment at lines 116--116
+<use Images/RegularizadosResorte.png>
+Package pdftex.def Info: Images/RegularizadosResorte.png used on input line 105
+.
+(pdftex.def)             Requested size: 211.39137pt x 116.23514pt.
+ [8
+
+ <./Images/RegularizadosResorte.png>]
+Overfull \hbox (1.30553pt too wide) in alignment at lines 121--121
  [][][] []
  []
 
-[9
+<Images/RegularizadosPlaca.png, id=266, 352.31625pt x 193.72375pt>
+File: Images/RegularizadosPlaca.png Graphic file (type png)
+
+<use Images/RegularizadosPlaca.png>
+Package pdftex.def Info: Images/RegularizadosPlaca.png used on input line 121.
+(pdftex.def)             Requested size: 211.39137pt x 116.23514pt.
+ [9
+
+ <./Images/RegularizadosPlaca.png>]
+[10
+
+] <Images/FrecuenciaResorte.png, id=319, 339.2675pt x 264.99pt>
+File: Images/FrecuenciaResorte.png Graphic file (type png)
+
+<use Images/FrecuenciaResorte.png>
+Package pdftex.def Info: Images/FrecuenciaResorte.png used on input line 152.
+(pdftex.def)             Requested size: 203.56206pt x 158.99522pt.
+ [11
+
+ <./Images/FrecuenciaResorte.png>]
+<Images/FrecuenciaPlaca.png, id=345, 339.2675pt x 264.99pt>
+File: Images/FrecuenciaPlaca.png Graphic file (type png)
+
+<use Images/FrecuenciaPlaca.png>
+Package pdftex.def Info: Images/FrecuenciaPlaca.png used on input line 161.
+(pdftex.def)             Requested size: 203.56206pt x 158.99522pt.
+ [12
+
+ <./Images/FrecuenciaPlaca.png>] [13
 
 ]
 \tf@nav=\write6
@@ -993,11 +1029,12 @@ Overfull \hbox (1.30553pt too wide) in alignment at lines 116--116
 \tf@snm=\write8
 \openout8 = `PhdPresentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
- (./PhdPresentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
+
+(./PhdPresentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 171.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 171.
 Package rerunfilecheck Info: File `PhdPresentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1005,13 +1042,13 @@ Package rerunfilecheck Info: File `PhdPresentation.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 171.
  ) 
 Here is how much of TeX's memory you used:
- 16495 strings out of 493089
- 316602 string characters out of 6134842
- 385623 words of memory out of 5000000
- 19572 multiletter control sequences out of 15000+600000
+ 16531 strings out of 493089
+ 317360 string characters out of 6134842
+ 386624 words of memory out of 5000000
+ 19596 multiletter control sequences out of 15000+600000
  10696 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,14n,55p,437b,536s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1026,10 +1063,10 @@ cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/lo
 cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/loc
 al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
 l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on PhdPresentation.pdf (9 pages, 458856 bytes).
+Output written on PhdPresentation.pdf (13 pages, 546141 bytes).
 PDF statistics:
- 330 PDF objects out of 1000 (max. 8388607)
- 267 compressed objects within 3 object streams
- 19 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 441 PDF objects out of 1000 (max. 8388607)
+ 365 compressed objects within 4 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
