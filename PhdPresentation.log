@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 NOV 2015 18:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  23 NOV 2015 07:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -886,18 +886,18 @@ LaTeX Info: Redefining \includegraphics on input line 15.
 (./PhdPresentation.nav) [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 39.
+line 38.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -906,192 +906,373 @@ thkerncmss.
 File: Images/Interferogram.png Graphic file (type png)
 
 <use Images/Interferogram.png>
-Package pdftex.def Info: Images/Interferogram.png used on input line 39.
+Package pdftex.def Info: Images/Interferogram.png used on input line 38.
 (pdftex.def)             Requested size: 312.52206pt x 72.5899pt.
 
-Overfull \hbox (5.2322pt too wide) in paragraph at lines 39--39
+Overfull \hbox (5.2322pt too wide) in paragraph at lines 38--38
  [] 
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 39.
+(Font)              size <5> substituted on input line 38.
 
 [2
 
  <./Images/Interferogram.png>]
-<Images/QuadratureFiltersScheme2.png, id=95, 787.743pt x 236.082pt>
-File: Images/QuadratureFiltersScheme2.png Graphic file (type png)
+File: Images/Interferogram.png Graphic file (type png)
+ <use Images/Interferogram.png>
+Package pdftex.def Info: Images/Interferogram.png used on input line 38.
+(pdftex.def)             Requested size: 312.52206pt x 72.5899pt.
 
-<use Images/QuadratureFiltersScheme2.png>
-Package pdftex.def Info: Images/QuadratureFiltersScheme2.png used on input line
- 43.
-(pdftex.def)             Requested size: 315.09161pt x 94.4311pt.
-
-Overfull \hbox (7.80174pt too wide) in paragraph at lines 43--43
-[][]  
+Overfull \hbox (5.2322pt too wide) in paragraph at lines 38--38
+ [] 
  []
 
 [3
 
- <./Images/QuadratureFiltersScheme2.png>]
-<Images/FourierDomine1.png, id=122, 376.607pt x 269.808pt>
-File: Images/FourierDomine1.png Graphic file (type png)
+] <Images/QuadratureFiltersScheme2.png, id=120, 787.743pt x 236.082pt>
+File: Images/QuadratureFiltersScheme2.png Graphic file (type png)
 
-<use Images/FourierDomine1.png>
-Package pdftex.def Info: Images/FourierDomine1.png used on input line 57.
-(pdftex.def)             Requested size: 225.96593pt x 161.88605pt.
+<use Images/QuadratureFiltersScheme2.png>
+Package pdftex.def Info: Images/QuadratureFiltersScheme2.png used on input line
+ 42.
+(pdftex.def)             Requested size: 315.09161pt x 94.4311pt.
 
-Overfull \vbox (2.57349pt too high) detected at line 57
+Overfull \hbox (7.80174pt too wide) in paragraph at lines 42--42
+[][]  
  []
 
 [4
 
+ <./Images/QuadratureFiltersScheme2.png>]
+<Images/FourierDomine1.png, id=147, 376.607pt x 269.808pt>
+File: Images/FourierDomine1.png Graphic file (type png)
+
+<use Images/FourierDomine1.png>
+Package pdftex.def Info: Images/FourierDomine1.png used on input line 56.
+(pdftex.def)             Requested size: 225.96593pt x 161.88605pt.
+
+Overfull \vbox (2.57349pt too high) detected at line 56
+ []
+
+[5
+
  <./Images/FourierDomine1.png>]
-<Images/FourierDomine2.png, id=153, 376.607pt x 269.808pt>
+File: Images/FourierDomine1.png Graphic file (type png)
+ <use Images/FourierDomine1.png>
+Package pdftex.def Info: Images/FourierDomine1.png used on input line 56.
+(pdftex.def)             Requested size: 225.96593pt x 161.88605pt.
+
+Overfull \vbox (2.57349pt too high) detected at line 56
+ []
+
+[6
+
+] <Images/FourierDomine2.png, id=204, 376.607pt x 269.808pt>
 File: Images/FourierDomine2.png Graphic file (type png)
 
 <use Images/FourierDomine2.png>
-Package pdftex.def Info: Images/FourierDomine2.png used on input line 68.
+Package pdftex.def Info: Images/FourierDomine2.png used on input line 67.
 (pdftex.def)             Requested size: 225.96593pt x 161.88605pt.
- [5
+ [7
 
  <./Images/FourierDomine2.png>]
-<Images/FourierDomine3.png, id=181, 376.607pt x 269.808pt>
+File: Images/FourierDomine2.png Graphic file (type png)
+
+<use Images/FourierDomine2.png>
+Package pdftex.def Info: Images/FourierDomine2.png used on input line 67.
+(pdftex.def)             Requested size: 225.96593pt x 161.88605pt.
+ [8
+
+]
+<Images/FourierDomine3.png, id=257, 376.607pt x 269.808pt>
 File: Images/FourierDomine3.png Graphic file (type png)
 
 <use Images/FourierDomine3.png>
-Package pdftex.def Info: Images/FourierDomine3.png used on input line 79.
+Package pdftex.def Info: Images/FourierDomine3.png used on input line 78.
 (pdftex.def)             Requested size: 225.96593pt x 161.88605pt.
- [6
+ [9
 
  <./Images/FourierDomine3.png>]
-<Images/wPhase.pdf, id=208, 205.76875pt x 206.7725pt>
-File: Images/wPhase.pdf Graphic file (type pdf)
- <use Images/wPhase.pdf>
-Package pdftex.def Info: Images/wPhase.pdf used on input line 91.
-(pdftex.def)             Requested size: 123.46219pt x 124.06445pt.
+File: Images/FourierDomine3.png Graphic file (type png)
 
-[7
+<use Images/FourierDomine3.png>
+Package pdftex.def Info: Images/FourierDomine3.png used on input line 78.
+(pdftex.def)             Requested size: 225.96593pt x 161.88605pt.
+ [10
 
- <./Images/wPhase.pdf>]
-<Images/RegularizadosResorte.png, id=239, 352.31625pt x 193.72375pt>
+]
+<Images/wPhase.png, id=310, 259.6902pt x 216.81pt>
+File: Images/wPhase.png Graphic file (type png)
+ <use Images/wPhase.png>
+Package pdftex.def Info: Images/wPhase.png used on input line 90.
+(pdftex.def)             Requested size: 155.8153pt x 130.08699pt.
+
+[11
+
+ <./Images/wPhase.png>]
+File: Images/wPhase.png Graphic file (type png)
+ <use Images/wPhase.png>
+Package pdftex.def Info: Images/wPhase.png used on input line 90.
+(pdftex.def)             Requested size: 155.8153pt x 130.08699pt.
+ [12
+
+]
+<Images/RegularizadosResorte.png, id=363, 352.31625pt x 193.72375pt>
 File: Images/RegularizadosResorte.png Graphic file (type png)
 
 <use Images/RegularizadosResorte.png>
-Package pdftex.def Info: Images/RegularizadosResorte.png used on input line 105
+Package pdftex.def Info: Images/RegularizadosResorte.png used on input line 104
 .
 (pdftex.def)             Requested size: 211.39137pt x 116.23514pt.
- [8
+ [13
 
  <./Images/RegularizadosResorte.png>]
-Overfull \hbox (1.30553pt too wide) in alignment at lines 121--121
+File: Images/RegularizadosResorte.png Graphic file (type png)
+
+<use Images/RegularizadosResorte.png>
+Package pdftex.def Info: Images/RegularizadosResorte.png used on input line 104
+.
+(pdftex.def)             Requested size: 211.39137pt x 116.23514pt.
+ [14
+
+]
+Overfull \hbox (1.30553pt too wide) in alignment at lines 120--120
  [][][] []
  []
 
-<Images/RegularizadosPlaca.png, id=266, 352.31625pt x 193.72375pt>
+<Images/RegularizadosPlaca.png, id=417, 352.31625pt x 193.72375pt>
 File: Images/RegularizadosPlaca.png Graphic file (type png)
 
 <use Images/RegularizadosPlaca.png>
-Package pdftex.def Info: Images/RegularizadosPlaca.png used on input line 121.
+Package pdftex.def Info: Images/RegularizadosPlaca.png used on input line 120.
 (pdftex.def)             Requested size: 211.39137pt x 116.23514pt.
- [9
+ [15
 
  <./Images/RegularizadosPlaca.png>]
-[10
+Overfull \hbox (1.30553pt too wide) in alignment at lines 120--120
+ [][][] []
+ []
 
-] <Images/FrecuenciaResorte.png, id=319, 339.2675pt x 264.99pt>
+File: Images/RegularizadosPlaca.png Graphic file (type png)
+<use Images/RegularizadosPlaca.png>
+Package pdftex.def Info: Images/RegularizadosPlaca.png used on input line 120.
+(pdftex.def)             Requested size: 211.39137pt x 116.23514pt.
+ [16
+
+] [17
+
+] [18
+
+] [19
+
+]
+<Images/FrecuenciaResorte.png, id=546, 339.2675pt x 264.99pt>
 File: Images/FrecuenciaResorte.png Graphic file (type png)
 
 <use Images/FrecuenciaResorte.png>
-Package pdftex.def Info: Images/FrecuenciaResorte.png used on input line 152.
-(pdftex.def)             Requested size: 203.56206pt x 158.99522pt.
- [11
+Package pdftex.def Info: Images/FrecuenciaResorte.png used on input line 154.
+(pdftex.def)             Requested size: 152.66896pt x 119.24438pt.
 
- <./Images/FrecuenciaResorte.png>]
-<Images/FrecuenciaPlaca.png, id=346, 339.2675pt x 264.99pt>
-File: Images/FrecuenciaPlaca.png Graphic file (type png)
-
-<use Images/FrecuenciaPlaca.png>
-Package pdftex.def Info: Images/FrecuenciaPlaca.png used on input line 161.
-(pdftex.def)             Requested size: 203.56206pt x 158.99522pt.
- [12
-
- <./Images/FrecuenciaPlaca.png>]
-<Images/FrecuenciaResorte3D.png, id=373, 370.88562pt x 270.00874pt>
+<Images/FrecuenciaResorte3D.png, id=547, 370.88562pt x 270.00874pt>
 File: Images/FrecuenciaResorte3D.png Graphic file (type png)
 
 <use Images/FrecuenciaResorte3D.png>
-Package pdftex.def Info: Images/FrecuenciaResorte3D.png used on input line 170.
+Package pdftex.def Info: Images/FrecuenciaResorte3D.png used on input line 154.
 
-(pdftex.def)             Requested size: 222.53308pt x 162.00648pt.
- [13
+(pdftex.def)             Requested size: 166.89699pt x 121.5028pt.
 
- <./Images/FrecuenciaResorte3D.png>]
-<Images/FrecuenciaPlaca3D.png, id=402, 370.88562pt x 270.00874pt>
+Overfull \hbox (12.27608pt too wide) in paragraph at lines 154--154
+ [][][] 
+ []
+
+[20
+
+ <./Images/FrecuenciaResorte.png> <./Images/FrecuenciaResorte3D.png>]
+<Images/FrecuenciaPlaca.png, id=575, 339.2675pt x 264.99pt>
+File: Images/FrecuenciaPlaca.png Graphic file (type png)
+
+<use Images/FrecuenciaPlaca.png>
+Package pdftex.def Info: Images/FrecuenciaPlaca.png used on input line 164.
+(pdftex.def)             Requested size: 152.66896pt x 119.24438pt.
+
+<Images/FrecuenciaPlaca3D.png, id=576, 370.88562pt x 270.00874pt>
 File: Images/FrecuenciaPlaca3D.png Graphic file (type png)
 
 <use Images/FrecuenciaPlaca3D.png>
-Package pdftex.def Info: Images/FrecuenciaPlaca3D.png used on input line 179.
-(pdftex.def)             Requested size: 222.53308pt x 162.00648pt.
- [14
+Package pdftex.def Info: Images/FrecuenciaPlaca3D.png used on input line 164.
+(pdftex.def)             Requested size: 166.89699pt x 121.5028pt.
 
- <./Images/FrecuenciaPlaca3D.png>]
-[15
+Overfull \hbox (12.27608pt too wide) in paragraph at lines 164--164
+ [][][] 
+ []
 
-] [16
+[21
 
-] <Images/InterferogramLS.png, id=483, 411.939pt x 412.6617pt>
+ <./Images/FrecuenciaPlaca.png> <./Images/FrecuenciaPlaca3D.png>] [22
+
+]
+Overfull \hbox (19.53056pt too wide) detected at line 213
+ []$[] [][] []  $ 
+ []
+
+[23
+
+]
+Overfull \hbox (19.53056pt too wide) detected at line 213
+ []$[] [][] []  $ 
+ []
+
+[24
+
+] <Images/InterferogramLS.png, id=682, 411.939pt x 412.6617pt>
 File: Images/InterferogramLS.png Graphic file (type png)
 
 <use Images/InterferogramLS.png>
-Package pdftex.def Info: Images/InterferogramLS.png used on input line 231.
-(pdftex.def)             Requested size: 115.34212pt x 115.54448pt.
+Package pdftex.def Info: Images/InterferogramLS.png used on input line 225.
+(pdftex.def)             Requested size: 102.98448pt x 103.16516pt.
 
-<Images/LS-Regularized.png, id=484, 865.7946pt x 413.3844pt>
-File: Images/LS-Regularized.png Graphic file (type png)
+<Images/FaseMinCua.png, id=683, 410.4936pt x 411.939pt>
+File: Images/FaseMinCua.png Graphic file (type png)
 
-<use Images/LS-Regularized.png>
-Package pdftex.def Info: Images/LS-Regularized.png used on input line 231.
-(pdftex.def)             Requested size: 242.42084pt x 115.74683pt.
+<use Images/FaseMinCua.png>
+Package pdftex.def Info: Images/FaseMinCua.png used on input line 225.
+(pdftex.def)             Requested size: 102.62314pt x 102.98448pt.
+ [25
 
-Overfull \vbox (6.51819pt too high) detected at line 231
- []
+ <./Images/InterferogramLS.png> <./Images/FaseMinCua.png>]
+File: Images/InterferogramLS.png Graphic file (type png)
+ <use Images/InterferogramLS.png>
+Package pdftex.def Info: Images/InterferogramLS.png used on input line 225.
+(pdftex.def)             Requested size: 102.98448pt x 103.16516pt.
+File: Images/FaseMinCua.png Graphic file (type png)
+ <use Images/FaseMinCua.png>
+Package pdftex.def Info: Images/FaseMinCua.png used on input line 225.
+(pdftex.def)             Requested size: 102.62314pt x 102.98448pt.
 
-[17
+[26
 
- <./Images/InterferogramLS.png> <./Images/LS-Regularized.png>]
-<Images/InterferogramLS-exp.png, id=513, 385.1991pt x 384.4764pt>
+]
+File: Images/InterferogramLS.png Graphic file (type png)
+ <use Images/InterferogramLS.png>
+Package pdftex.def Info: Images/InterferogramLS.png used on input line 225.
+(pdftex.def)             Requested size: 102.98448pt x 103.16516pt.
+File: Images/FaseMinCua.png Graphic file (type png)
+ <use Images/FaseMinCua.png>
+Package pdftex.def Info: Images/FaseMinCua.png used on input line 225.
+(pdftex.def)             Requested size: 102.62314pt x 102.98448pt.
+ [27
+
+] [28
+
+]
+File: Images/InterferogramLS.png Graphic file (type png)
+
+<use Images/InterferogramLS.png>
+Package pdftex.def Info: Images/InterferogramLS.png used on input line 257.
+(pdftex.def)             Requested size: 131.82317pt x 132.05443pt.
+
+<Images/FaseMinCuaReg.png, id=792, 409.7709pt x 411.939pt>
+File: Images/FaseMinCuaReg.png Graphic file (type png)
+
+<use Images/FaseMinCuaReg.png>
+Package pdftex.def Info: Images/FaseMinCuaReg.png used on input line 257.
+(pdftex.def)             Requested size: 131.12936pt x 131.82317pt.
+ [29
+
+ <./Images/FaseMinCuaReg.png>]
+<Images/InterferogramLS-exp.png, id=819, 385.1991pt x 384.4764pt>
 File: Images/InterferogramLS-exp.png Graphic file (type png)
 
 <use Images/InterferogramLS-exp.png>
-Package pdftex.def Info: Images/InterferogramLS-exp.png used on input line 240.
+Package pdftex.def Info: Images/InterferogramLS-exp.png used on input line 267.
 
-(pdftex.def)             Requested size: 115.56061pt x 115.3438pt.
+(pdftex.def)             Requested size: 104.00514pt x 103.81001pt.
 
-<Images/LS-Regularized-exp.png, id=514, 811.5921pt x 384.4764pt>
+<Images/LS-Regularized-exp.png, id=820, 811.5921pt x 384.4764pt>
 File: Images/LS-Regularized-exp.png Graphic file (type png)
 
 <use Images/LS-Regularized-exp.png>
-Package pdftex.def Info: Images/LS-Regularized-exp.png used on input line 240.
-(pdftex.def)             Requested size: 243.4795pt x 115.3438pt.
+Package pdftex.def Info: Images/LS-Regularized-exp.png used on input line 267.
+(pdftex.def)             Requested size: 235.35568pt x 111.49529pt.
 
-Overfull \vbox (5.91447pt too high) detected at line 240
+Overfull \vbox (6.26135pt too high) detected at line 267
  []
 
-[18
+[30
 
  <./Images/InterferogramLS-exp.png> <./Images/LS-Regularized-exp.png>]
-[19
+[31
 
-] [20
+] [32
 
-] [21
+] [33
 
-] [22
+] [34
+
+] <Images/QuitarDC.png, id=953, 3175.062pt x 622.325pt>
+File: Images/QuitarDC.png Graphic file (type png)
+
+<use Images/QuitarDC.png>
+Package pdftex.def Info: Images/QuitarDC.png used on input line 310.
+(pdftex.def)             Requested size: 317.5248pt x 62.23615pt.
+
+Overfull \hbox (10.23492pt too wide) in paragraph at lines 310--310
+ [] 
+ []
+
+[35
+
+ <./Images/QuitarDC.png>] [36
+
+] [37
+
+] [38
+
+] [39
 
 ]
-Overfull \hbox (22.02744pt too wide) detected at line 337
+<Images/FaseSelfTuning.png, id=1082, 1187.43625pt x 701.62125pt>
+File: Images/FaseSelfTuning.png Graphic file (type png)
+
+<use Images/FaseSelfTuning.png>
+Package pdftex.def Info: Images/FaseSelfTuning.png used on input line 354.
+(pdftex.def)             Requested size: 296.85834pt x 175.40488pt.
+ [40
+
+ <./Images/FaseSelfTuning.png>]
+<Images/Self-tuningGraphError.png, id=1109, 1332.98pt x 642.4pt>
+File: Images/Self-tuningGraphError.png Graphic file (type png)
+
+<use Images/Self-tuningGraphError.png>
+Package pdftex.def Info: Images/Self-tuningGraphError.png used on input line 36
+1.
+(pdftex.def)             Requested size: 333.24419pt x 160.59961pt.
+
+Overfull \hbox (25.95432pt too wide) in paragraph at lines 361--361
+[]  
+ []
+
+[41
+
+ <./Images/Self-tuningGraphError.png>] [42
+
+] [43
+
+] [44
+
+] [45
+
+]
+Overfull \hbox (19.53056pt too wide) detected at line 423
+ []$[] [][] []  $ 
+ []
+
+[46
+
+]
+Overfull \hbox (22.02744pt too wide) detected at line 456
  []$[] [] [] []\OMS/cmsy/m/n/10.95 f\OT1/mathkerncmss/m/sl/10.95 a\OT1/cmss/m/n
 /10.95 (\OT1/mathkerncmss/m/sl/10.95 m\OML/cmm/m/it/10.95 ; \OT1/mathkerncmss/m
 /sl/10.95 n\OT1/cmss/m/n/10.95 ) + \OT1/mathkerncmss/m/sl/10.95 Re\OMS/cmsy/m/n
@@ -1106,18 +1287,136 @@ it/10.95 ; \OT1/mathkerncmss/m/sl/10.95 n\OT1/cmss/m/n/10.95 )\OMS/cmsy/m/n/10.
 sl/10.95 n\OT1/cmss/m/n/10.95 )[][]  $ 
  []
 
+[47
 
-Overfull \hbox (15.2987pt too wide) detected at line 337
- []$[]   [] [] \OT1/cmss/m/n/10.95 =$ 
+] <Images/faseAdaptivePSI.pdf, id=1293, 1196.47pt x 742.775pt>
+File: Images/faseAdaptivePSI.pdf Graphic file (type pdf)
+
+<use Images/faseAdaptivePSI.pdf>
+Package pdftex.def Info: Images/faseAdaptivePSI.pdf used on input line 463.
+(pdftex.def)             Requested size: 323.05122pt x 200.55193pt.
+
+Overfull \hbox (15.76135pt too wide) in paragraph at lines 463--463
+[]  
  []
 
-[23
+[48
 
-] [24
+ <./Images/faseAdaptivePSI.pdf>] [49
 
-] [25
+] [50
 
-] [26
+] [51
+
+] [52
+
+] [53
+
+] [54
+
+]
+<Images/Fig_frecuencias1.pdf, id=1476, 614.295pt x 794.97pt>
+File: Images/Fig_frecuencias1.pdf Graphic file (type pdf)
+
+<use Images/Fig_frecuencias1.pdf>
+Package pdftex.def Info: Images/Fig_frecuencias1.pdf used on input line 545.
+(pdftex.def)             Requested size: 92.14026pt x 119.24036pt.
+
+<Images/Fig_frecuencias2.pdf, id=1477, 614.295pt x 794.97pt>
+File: Images/Fig_frecuencias2.pdf Graphic file (type pdf)
+
+<use Images/Fig_frecuencias2.pdf>
+Package pdftex.def Info: Images/Fig_frecuencias2.pdf used on input line 545.
+(pdftex.def)             Requested size: 92.14026pt x 119.24036pt.
+
+<Images/Fig_frecuencias3.pdf, id=1478, 614.295pt x 794.97pt>
+File: Images/Fig_frecuencias3.pdf Graphic file (type pdf)
+
+<use Images/Fig_frecuencias3.pdf>
+Package pdftex.def Info: Images/Fig_frecuencias3.pdf used on input line 545.
+(pdftex.def)             Requested size: 92.14026pt x 119.24036pt.
+ [55
+
+ <./Images/Fig_frecuencias1.pdf> <./Images/Fig_frecuencias2.pdf> <./Images/Fig_
+frecuencias3.pdf>]
+<Images/wfaseIdeal_error.pdf, id=1544, 614.295pt x 794.97pt>
+File: Images/wfaseIdeal_error.pdf Graphic file (type pdf)
+
+<use Images/wfaseIdeal_error.pdf>
+Package pdftex.def Info: Images/wfaseIdeal_error.pdf used on input line 555.
+(pdftex.def)             Requested size: 122.85681pt x 158.99118pt.
+
+<Images/wfaseIdeal_mejorada.pdf, id=1545, 614.295pt x 794.97pt>
+File: Images/wfaseIdeal_mejorada.pdf Graphic file (type pdf)
+
+<use Images/wfaseIdeal_mejorada.pdf>
+Package pdftex.def Info: Images/wfaseIdeal_mejorada.pdf used on input line 555.
+
+(pdftex.def)             Requested size: 122.85681pt x 158.99118pt.
+ [56
+
+ <./Images/wfaseIdeal_error.pdf> <./Images/wfaseIdeal_mejorada.pdf>]
+<Images/FaseError_Ideal_3D.pdf, id=1598, 614.295pt x 794.97pt>
+File: Images/FaseError_Ideal_3D.pdf Graphic file (type pdf)
+
+<use Images/FaseError_Ideal_3D.pdf>
+Package pdftex.def Info: Images/FaseError_Ideal_3D.pdf used on input line 565.
+(pdftex.def)             Requested size: 165.86186pt x 214.64476pt.
+
+<Images/Fase_Ideal_3D.pdf, id=1599, 614.295pt x 794.97pt>
+File: Images/Fase_Ideal_3D.pdf Graphic file (type pdf)
+
+<use Images/Fase_Ideal_3D.pdf>
+Package pdftex.def Info: Images/Fase_Ideal_3D.pdf used on input line 565.
+(pdftex.def)             Requested size: 165.86186pt x 214.64476pt.
+
+Overfull \hbox (24.43385pt too wide) in paragraph at lines 565--565
+ [][] 
+ []
+
+
+Overfull \vbox (12.07166pt too high) detected at line 565
+ []
+
+[57
+
+ <./Images/FaseError_Ideal_3D.pdf> <./Images/Fase_Ideal_3D.pdf>] [58
+
+]
+[59
+
+] [60
+
+] [61
+
+]
+Missing character: There is no ‚ in font cmss10!
+Missing character: There is no Ä in font cmss10!
+Missing character: There is no ú in font cmss10!
+Missing character: There is no ‚ in font cmss10!
+Missing character: There is no Ä in font cmss10!
+Missing character: There is no ù in font cmss10!
+Missing character: There is no ‚ in font cmss10!
+Missing character: There is no Ä in font cmss10!
+Missing character: There is no ú in font cmss10!
+Missing character: There is no ‚ in font cmss10!
+Missing character: There is no Ä in font cmss10!
+Missing character: There is no ù in font cmss10!
+Missing character: There is no ‚ in font cmss10!
+Missing character: There is no Ä in font cmss10!
+Missing character: There is no ú in font cmss10!
+Missing character: There is no ‚ in font cmss10!
+Missing character: There is no Ä in font cmss10!
+Missing character: There is no ù in font cmss10!
+Missing character: There is no ‚ in font cmss10!
+Missing character: There is no Ä in font cmss10!
+Missing character: There is no ú in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no Å in font cmss10!
+Missing character: There is no ‚ in font cmss10!
+Missing character: There is no Ä in font cmss10!
+Missing character: There is no ù in font cmss10!
+ [62
 
 ]
 \tf@nav=\write6
@@ -1129,11 +1428,11 @@ Overfull \hbox (15.2987pt too wide) detected at line 337
 \tf@snm=\write8
 \openout8 = `PhdPresentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 396.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 396.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 612.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 612.
  (./PhdPresentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 396.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 396.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 612.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 612.
 Package rerunfilecheck Info: File `PhdPresentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1141,39 +1440,42 @@ Package rerunfilecheck Info: File `PhdPresentation.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 396.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 612.
  ) 
 Here is how much of TeX's memory you used:
- 16653 strings out of 493089
- 319241 string characters out of 6134842
- 389674 words of memory out of 5000000
- 19677 multiletter control sequences out of 15000+600000
+ 16844 strings out of 493089
+ 322743 string characters out of 6134842
+ 390676 words of memory out of 5000000
+ 19784 multiletter control sequences out of 15000+600000
  17895 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,55p,437b,536s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,15n,55p,437b,542s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.
-pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
-fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/l
-ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on PhdPresentation.pdf (26 pages, 2650238 bytes).
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cmextra/cme
+x9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on PhdPresentation.pdf (62 pages, 4271974 bytes).
 PDF statistics:
- 825 PDF objects out of 1000 (max. 8388607)
- 712 compressed objects within 8 object streams
- 55 named destinations out of 1000 (max. 500000)
- 123 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1876 PDF objects out of 2073 (max. 8388607)
+ 1684 compressed objects within 17 object streams
+ 127 named destinations out of 1000 (max. 500000)
+ 183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
